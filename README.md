@@ -5,7 +5,7 @@ It is a responsive user dashboard built with **React** and **Tailwind CSS**, fea
 
 ---
 
-## 🚀 Features
+##  Features
 - **Dashboard Page** – Displays all users with cards.
 - **User Details Page** – Shows detailed information for each user.
 - **Search Bar** – Filter and search users easily.
@@ -40,7 +40,7 @@ user-dashboard/ <-- Main project folder
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md
-## ⚡ Installation
+##  Installation process
 
 1. Navigate into the main folder:
    
