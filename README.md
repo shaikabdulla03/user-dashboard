@@ -1,6 +1,6 @@
 # User Dashboard
 
-The project is contained inside the main folder **`user-dashboard/`**.  
+The project is contained with folder name **`user-dashboard/`**.  
 It is a responsive user dashboard built with **React** and **Tailwind CSS**, featuring user management, search functionality, and context-based state management.
 
 ---
